@@ -1,0 +1,11 @@
+uuid: 5888c5ba-1363-44a4-80f1-fba2b4bd2d36
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.campus
+id: taxonomy_term.campus
+target_entity_type_id: taxonomy_term
+target_bundle: campus
+default_langcode: site_default
+language_alterable: false

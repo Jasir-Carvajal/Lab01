@@ -1,0 +1,19 @@
+uuid: e977d56f-7cd8-4376-b09c-a770964ec983
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: node.field_carreras_en_las_que_se_imp
+field_name: field_carreras_en_las_que_se_imp
+entity_type: node
+type: entity_reference
+settings:
+  target_type: node
+module: core
+locked: false
+cardinality: 3
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

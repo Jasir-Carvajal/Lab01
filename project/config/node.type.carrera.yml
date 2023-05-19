@@ -1,0 +1,17 @@
+uuid: d3c19f20-f18e-4031-96c9-4bf9d31b2cd9
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: Carrera
+type: carrera
+description: ''
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: false
